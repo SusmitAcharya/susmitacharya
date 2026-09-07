@@ -12,11 +12,11 @@
 ---
 
 <p align="center">
-  <a href="https://www.susmitacharya.com/Susmit_Acharya_Resume.pdf" download="Susmit_Acharya_Resume.pdf">Download Resume</a>
+  <a href="https://www.susmitacharya.com/Susmit_Acharya_Resume.pdf" download="Susmit_Acharya_Resume.pdf" target="_blank">Download Resume</a>
   &nbsp;·&nbsp;
-  <a href="https://www.susmitacharya.com/">Portfolio Website</a>
+  <a href="https://www.susmitacharya.com/" target="_blank">Portfolio Website</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/susmit-acharya/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/susmit-acharya/" target="_blank">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://x.com/acharyasusmit">X</a>
+  <a href="https://x.com/acharyasusmit" target="_blank">X</a>
 </p>
