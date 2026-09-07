@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #ffffff;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1000px" height="335px" fill="#000000" rx="15"/>
+
 <text x="15" y="30" fill="#ffffff">
 <tspan x="15" y="30">@susmitacharya</tspan> -—————————————————————————————————————————————————————————————————————————————————-—-
 <tspan x="15" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................................................................... </tspan><tspan class="value">Windows 11</tspan>
